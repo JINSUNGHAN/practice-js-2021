@@ -1,0 +1,7 @@
+@import "statusbar.css";
+
+body {
+  background-size: cover;
+  width: 50vh;
+  height: 100%;
+}
