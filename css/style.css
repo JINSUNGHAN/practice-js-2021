@@ -1,5 +1,13 @@
 @import "statusbar.css";
 
+#sticker {
+  background-color: aliceblue;
+  opacity: 70%;
+  border-radius: 5%;
+  padding: 30px;
+  width: 40%;
+}
+
 body {
   background-size: cover;
   width: 50vh;
